@@ -36,7 +36,7 @@ public class Participant {
         return email;
     }
 
-    public String getPrefferedGame() {
+    public String getPreferredGame() {
         return prefferedGame;
     }
 
@@ -44,7 +44,7 @@ public class Participant {
         return skillLevel;
     }
 
-    public String getPrefferedRole() {
+    public String getPreferredRole() {
         return prefferedRole;
     }
 
